@@ -1,0 +1,23 @@
+# 网站测速工具推荐与测评
+
+> 茶壶测速 Chahu.com 七项核心工具真实技术测评。
+
+- 在线文章: https://chahucesu.github.io/chahu-speedtest-review/
+- 茶壶测速官网: https://www.chahu.com/
+- 测试日期: 2026-09-11
+- 综合评分: 8.7/10
+
+## 实测工具
+
+- 网站测速: https://www.chahu.com/
+- 在线 Ping: https://www.chahu.com/ping
+- DNS 查询: https://www.chahu.com/dns
+- 路由追踪: https://www.chahu.com/trace
+- 拦截检测: https://www.chahu.com/block
+- IPv6 工具: https://www.chahu.com/ipv6
+- 批量检测: https://www.chahu.com/batch
+- 网站监控: https://www.chahu.com/monitor
+
+## 结论
+
+茶壶测速适合需要检查中国电信、中国联通、中国移动、港澳台和海外访问差异的站长、运维、SRE、CDN 与 SEO 技术团队。它提供从路由层到 HTTP 应用层的主动拨测能力，但不能替代长期监控、RUM、APM 与服务器日志。

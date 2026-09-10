@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chahucesu.github.io/chahu-speedtest-review/sitemap.xml

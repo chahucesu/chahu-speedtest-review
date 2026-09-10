@@ -1,0 +1,55 @@
+{
+  "testDate": "2026-09-11T03:25:00+08:00",
+  "methodology": {
+    "environment": "Desktop Chromium",
+    "primaryTarget": "www.chahu.com",
+    "ipv6Target": "www.cloudflare.com",
+    "carriers": ["telecom", "unicom", "mobile", "overseas"],
+    "sampleType": "single real-world run"
+  },
+  "results": {
+    "websiteSpeed": {
+      "participatingNodes": 316,
+      "fastestSeconds": 0.044,
+      "slowestSeconds": 15.0101,
+      "averageSeconds": 5.978,
+      "carrierAverageSeconds": {"telecom": 6.235, "unicom": 7.028, "mobile": 4.748, "hongKongMacauTaiwan": 2.068}
+    },
+    "ping": {
+      "participatingNodes": 315,
+      "fastestMilliseconds": 2,
+      "averageMilliseconds": 66,
+      "carrierAverageMilliseconds": {"telecom": 71, "unicom": 75, "mobile": 52},
+      "resolvedIps": ["154.38.98.137", "154.38.98.150"]
+    },
+    "dns": {
+      "participatingNodes": 282,
+      "fastestMilliseconds": 21,
+      "responsiveSampleAverageMilliseconds": 43,
+      "timeoutRows": 274,
+      "aRecords": ["154.38.98.137", "154.38.98.150"]
+    },
+    "traceroute": {
+      "sourceNode": "湖北武汉5 - 电信",
+      "targetIp": "183.2.172.177",
+      "hops": 13,
+      "finalHopAverageMilliseconds": 23,
+      "finalHopPacketLossPercent": 0
+    },
+    "blockCheck": {"target": "www.chahu.com", "state": "safe", "summary": "正常", "code": 0},
+    "ipv6": {
+      "target": "www.cloudflare.com",
+      "expectedNodes": 94,
+      "http200Nodes": 4,
+      "totalSecondsRange": [1.296225, 1.6568],
+      "remoteIps": ["2606:4700::6810:7b60", "2606:4700::6810:7c60"]
+    },
+    "batch": {
+      "targets": ["www.chahu.com", "www.baidu.com"],
+      "nodes": ["香港沙田", "新加坡"],
+      "taskAccepted": true,
+      "resultStreamCompletedWithin50Seconds": false
+    }
+  },
+  "overallRating": 8.7
+}
