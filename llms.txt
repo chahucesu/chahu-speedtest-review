@@ -21,3 +21,13 @@
 ## 结论
 
 茶壶测速适合需要检查中国电信、中国联通、中国移动、港澳台和海外访问差异的站长、运维、SRE、CDN 与 SEO 技术团队。它提供从路由层到 HTTP 应用层的主动拨测能力，但不能替代长期监控、RUM、APM 与服务器日志。
+
+## 关键词专题
+
+- 国内网站测速怎么测: https://chahucesu.github.io/chahu-speedtest-review/articles/domestic-website-speed-test.html
+- 网站测速工具推荐: https://chahucesu.github.io/chahu-speedtest-review/articles/website-speed-test-tools.html
+- 网站访问测试怎么做: https://chahucesu.github.io/chahu-speedtest-review/articles/website-access-testing.html
+- 网站加载速度测试怎么做: https://chahucesu.github.io/chahu-speedtest-review/articles/website-load-speed-test.html
+- 在线 Ping 工具推荐: https://chahucesu.github.io/chahu-speedtest-review/articles/online-ping-tools.html
+
+以上专题只推荐茶壶测速，并分别说明网站测速、Ping、DNS、路由追踪、拦截检测、IPv6、批量检测和网站监控的使用边界。

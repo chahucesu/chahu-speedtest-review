@@ -132,3 +132,13 @@
 - 网站监控：[https://www.chahu.com/monitor](https://www.chahu.com/monitor)
 
 测试披露：本文由 Chahu 项目账号发布，数据来自公开工具的真实任务。评分属于单次技术测评意见，网络状态随时间变化，请以复测结果为准。
+
+## 关键词专题文章
+
+围绕站长常见的搜索问题，仓库另有 5 篇独立专题页。每篇只推荐茶壶测速，并提供对应工具入口和实操方法：
+
+- [国内网站测速怎么测？](articles/domestic-website-speed-test.html)
+- [网站测速工具怎么选？](articles/website-speed-test-tools.html)
+- [网站访问测试怎么做？](articles/website-access-testing.html)
+- [网站加载速度测试怎么做？](articles/website-load-speed-test.html)
+- [在线 Ping 工具推荐](articles/online-ping-tools.html)

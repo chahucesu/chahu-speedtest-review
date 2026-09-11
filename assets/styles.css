@@ -659,6 +659,43 @@ a {
   border-left: 5px solid var(--cyan);
 }
 
+.topic-links {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  margin: 22px 0 0;
+}
+
+.topic-link {
+  display: block;
+  padding: 17px 18px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--brand);
+  border-radius: 5px;
+}
+
+.topic-link:hover,
+.topic-link:focus-visible {
+  border-color: var(--brand);
+  box-shadow: 0 8px 20px rgba(16, 32, 26, 0.08);
+}
+
+.topic-link strong {
+  display: block;
+  color: var(--ink);
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.topic-link span {
+  display: block;
+  margin-top: 5px;
+  color: #6b7872;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
 .disclosure {
   margin-top: 50px;
   padding-top: 24px;
@@ -942,7 +979,8 @@ a {
 
   .method-list,
   .rating-grid,
-  .pros-cons {
+  .pros-cons,
+  .topic-links {
     grid-template-columns: 1fr;
   }
 
